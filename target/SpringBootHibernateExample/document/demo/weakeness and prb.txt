@@ -1,0 +1,35 @@
+1. Alexa doesn’t understand
+It’s a sinking feeling when Alexa responds with an apology. “I’m sorry, I don’t understand the question.” In fact, you might want to expect this phrase, as it could become commonplace in your home. No matter how hard you try to communicate, sometimes Alexa just doesn’t understand. If you notice it’s happening more than usual, try calibrating your voice through the voice training tool.
+
+You can find this in the Alexa app under Settings > Voice Training, which will activate the process.
+
+Your Dot and Echo will cycle through about 25 phrases that you’ll need to speak out loud. This allows Alexa to better recognize your voice and tone.
+
+If that doesn’t fix the problem, it’s a good idea to check what Alexa actually thought you said. The app keeps a record of all your voice commands, so you can see when and what goes wrong.
+
+Again, open the Alexa app and navigate to settings. Then select “History” for a list of all previous interactions. Sadly, you can’t retrain misrepresented words, but you can identify what Alexa is having trouble understanding. That way, next time you ask Alexa to turn on the TV and she starts brewing tea instead, at least you know why it’s happening.
+
+2. Your Echo keeps getting activated
+The default wake word for Dot and Echo devices is “Alexa,” which can sometimes be triggered by your TV, commercials, or even radio broadcasts. Worse yet, if you have your Echo positioned near your TV and you watch any YouTube videos about the Echo, they may activate the listening feature often.
+
+Luckily, you can change the wake word for the Dot or Echo to one of two other options.
+
+For example: If you navigate to Settings > Your Echo > Change Wake Word, you’ll be able to select one of the other pre-defined options, which include “Amazon” and “Echo,” in addition to the usual “Alexa.”
+
+One can only hope that soon we’ll see support expanded for custom wake words or more options, at the very least.
+
+3. Wi-Fi connectivity isn’t working
+Unfortunately, this problem can happen due to a number of factors, not just an issue with your Dot or Echo. On the bottom of the device, towards the back, you’ll notice a power LED that also doubles as a Wi-Fi connection indicator. If it’s white, that’s good and you’re connected, but if it’s orange, there’s no internet access.
+
+One of the first things you should try is rebooting your router and your Dot or Echo. If applicable, you may also want to reboot your modem. If that doesn’t fix anything, it may be a problem with interference. Just to rule things out, try moving your Dot or Echo closer to your wireless access point or router. If it connects, you know the issue is signal strength.
+
+If you have a dual-band modem, you can switch from the 2.4GHz frequency to the 5GHz frequency or even vice versa. The lower frequency is more common and may also experience interruptions from a variety of household appliances, like your microwave. Plus, if any of your surrounding neighbors are using the same frequency, it can cause connection problems. The 5GHz frequency, on the other hand, is a bit stronger, but it does have trouble going longer distances and through walls.
+
+Believe it or not, a lot of this has to do with something called stacking, which can lead to noise interference. Traditionally, that term refers to the design or placement of PCBs or circuit boards. But it can also relate to a configuration of electronic devices using radio signals.
+
+It’s always best to place your Dot or Echo as high as possible off the ground, and at least six to eight feet away from walls.
+
+4. Bluetooth connectivity isn’t working
+When Bluetooth works, it’s great — but it can certainly be finicky at times. The best thing to do when you have problems connecting is to un-pair and re-pair the device in question. You can do this through the Alexa app under Settings > Bluetooth > Clear All Paired Devices, which will clear everything.
+
+If you’re having trouble pairing the device in the first place, first make sure the Dot and your wireless device are compatible. Echo only supports the Advanced Audio Distribution Profile (A2DP SNK) and Audio / Video Remote Control Profile (AVRCP), so if your device isn’t compatible with those, it won’t sync.

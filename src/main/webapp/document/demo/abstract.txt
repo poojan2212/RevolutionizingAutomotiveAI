@@ -1,0 +1,70 @@
+Abstract:
+
+Automation is the essential need for the present world. There are various types of automations like building automation, industrial automation, Home automation, Artificial Intelligence, etc. Smart can be a potential application which provides support to elderly or disabled persons. Home automation is the use and control of home appliances remotely or automatically. Day by day the gap between machines and humans is being reduced. Nowadays hand gesture based home automation is getting more importance. Gesture recognition refers to recognising the motion of the human parts like hand, face, etc. Most of the electronic components manufactures focuses on the hand gesture basis. In this proposed work MATLAB based algorithm is used. This proposed work uses this tool for the recognition and processing of the hand gesture. The algorithm used for this proposed work is the object detection algorithm. At first the image is captured by the camera and it is processed by the MATLAB, if the preloaded gesture is matched with the existing gesture the data will be sent to the microcontroller, then the home appliances are controlled. There are other applications which could be controlled by a gesture such as media players, robots and virtual objects. The hardware module consists of camera, PIC microcontroller, fan, light, power supply, LED, GSM module. This hardware module is communicated with simulation software using a USB to serial converter bus which comes along with driver software.
+
+
+ VISIO:x
+Microsoft Visio is a diagramming tool that can be used to visually communicate
+technical as well as non-technical representation of ideas, processes, concepts, structures,
+layouts, software models, blue prints etc…Microsoft Visio eliminate s the laborious process
+of creating diagrams by providing the tools to create complex diagrams in a user friendly
+manner. Whether you want to create an office layout, a basic flowchart or an organizational
+structure, you can do it minimal effort using Microsoft Visio. The latest version of Visio
+2010 which simplify complexity with dynamic, data-driven visuals and new ways to share on
+the web
+
+ Apache Tomcat
+Apache tomcat is an open source servlet container developed by the Apache software
+foundation (ASF). Tomcat implements the java servlet and java server pages (JSP)
+specifications from Sun Microsystems, and provides a “pure java” HTTP web server
+environment for java code to run.
+Tomcat should not be confused with the Apache web server, which is a C
+implementation of an HTTP web server; these two web servers are not bundled together.
+Apache Tomcat includes tools for configuration and management, but can also be configured
+by editing XML configuration files.
+
+I. Introduction
+In this proposed work we have implemented the gesture controlled home automation using MATLAB simulation software through the microcontroller. Taking in concern the day to day challenges in the world with growing technologies in normal life, the following proposed work was created. The problem of disability is gaining more and more importance all over the world. At the same time there is a network of Non Governmental Organisations working for the development of persons with physical disabilities. Therefore providing solution for the inabilities is the prime moto of this work. Gesture plays a major role in this proposed work. A gesture is a form of nonvocal communication in that human body actions can be able to communicate the particular speech or communication or even messages. Gestures include movement of the hands, face, or other parts of the body. Gestures allow individuals to communicate a variety of feelings and thoughts, from contempt and hostility to approval and affection. There are other applications which could be controlled by a gestures include media players, remote controllers, robots, etc. Gesture recognition is the mathematical interpretation of a human motion by a computing device. In other words, interface with computers or other equipment using gestures of the human body, typically hand movements. In the gesture recognition technology, a camera reads the movements of the human body and communicates the data to a computer that uses the gestures as a input to control devices or applications.
+
+***** OpenCV
+In the project we use OpenCV contours for recognizing the hand image.
+
+Contours can be explained simply as a curve joining all the continuous points (along the boundary), having same color or intensity. The contours are a useful tool for shape analysis and object detection and recognition. For better accuracy, use binary images. So before finding contours, apply threshold or canny edge detection. findContours function modifies the source image. So if you want source image even after finding contours, already store it to some other variables.
+
+In OpenCV, finding contours is like finding white object from black background. So remember, object to be found should be white and background should be black.
+
+raspberry pi
+
+The Raspberry Pi is a credit card sized single-board computer with an open-source platform that has a thriving community of its own, similar to that of the Arduino. It can be used in various types of projects from beginners learning how to code to hobbyists designing home automation systems. 
+
+There are a few versions of the Raspberry Pi, but the latest version, has improved upon its predecessor in terms of both form and functionality. The Raspberry Pi Model B features: 
+
+• More GPIO
+• More USB
+• Micro SD
+• Lower power consumption
+• Better audio
+• Neater form factor 
+
+This higher-spec variant increases the Raspberry pi GPIO pin count from 26 to 40 pins. There are now four USB 2.0 ports compared to two on the Model B. The SD card slot has been replaced with a more modern push-push type micro SD slot. It consumes slightly less power, provides better audio quality and has a cleaner form factor. 
+
+
+
+hardware required:
+
+raspberry pi 3
+raspberry camera
+LAN cable
+registers
+LED all colors
+pot
+jumper wire m-m,f-f,m-f
+bread borad 
+hdmi to vga converter
+
+
+lib:
+
+OpenCv
+numpy
+
